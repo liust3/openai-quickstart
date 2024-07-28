@@ -11,7 +11,7 @@ from openai import OpenAI
 class OpenAIModel(Model):
     def __init__(self, model: str, api_key: str):
         self.model = model
-        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self.client = OpenAI(base_url="https://api.xiaoai.plus/v1", api_key="sk-tdqfro61NniG2LZd5394E5F28c51419d8b4dE7Db5a6105C4")
 
     def make_request(self, prompt):
         attempts = 0

@@ -102,6 +102,10 @@ python ai_translator/main.py --model_type GLMModel --glm_model_url $GLM_MODEL_UR
 
 该项目采用 GPL-3.0 许可证。有关详细信息，请查看 [LICENSE](LICENSE) 文件。
 
+```bash
+python ai_translator/main.py --model_type OpenAIModel --openai_api_key "sk-tdqfro61NniG2LZd5394E5F28c51419d8b4dE7Db5a6105C4" --file_format markdown --book tests/test.pdf --openai_model gpt-3.5-turbo --target_language Japanese
+```
+
 
 
 
