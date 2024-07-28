@@ -149,3 +149,10 @@ Django Peng - pjt73651@email.com
 ## Day1 Homework
 https://chatgpt.com/share/54bca633-70aa-4480-b4ca-c68f050376b5
 
+## Day2 Homework
+[https://chatgpt.com/share/54bca633-70aa-4480-b4ca-c68f050376b5](https://github.com/liust3/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb)
+https://github.com/liust3/openai-quickstart/tree/main/openai-translator/ai_translator
+https://github.com/liust3/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
+
+## Day3 Homework
+[langchain/sales_chatbot/cloth_sales_chatbot](https://github.com/liust3/openai-quickstart/tree/main/langchain/sales_chatbot/cloth_sales_chatbot)
